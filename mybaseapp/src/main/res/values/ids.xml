@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--报错界面点击资源ID-->
+    <item name="btn_tip_helper_retry" type="id"/>
+    <item name="tv_tip_helper_message" type="id"/>
+    <item name="tip_helper_attached_view" type="id"/>
+</resources>
